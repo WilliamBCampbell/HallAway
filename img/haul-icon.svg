@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Hauling services icon</title>
+  <rect width="64" height="64" rx="10" fill="#1b2b48"/>
+  <rect x="11" y="24" width="28" height="16" rx="2" fill="#ffffff"/>
+  <path d="M39 28h9l5 6v6H39z" fill="#d32f2f"/>
+  <circle cx="21" cy="45" r="5" fill="#ffffff"/>
+  <circle cx="45" cy="45" r="5" fill="#ffffff"/>
+  <circle cx="21" cy="45" r="2" fill="#1b2b48"/>
+  <circle cx="45" cy="45" r="2" fill="#1b2b48"/>
+</svg>
