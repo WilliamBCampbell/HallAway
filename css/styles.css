@@ -3,7 +3,7 @@
   --primary-blue-2: #243a61;
   --accent-red: #d32f2f;
   --accent-red-deep: #b32121;
-  --pure-white: #ffffff;
+  --pure-white: #f5f4ea;
   --light-gray: #f4f4f4;
   --light-gray-2: #ebedf1;
   --text-dark: #333333;
@@ -28,7 +28,7 @@ html {
 body {
   margin: 0;
   color: var(--text-dark);
-  background: radial-gradient(circle at 20% 0%, #ffffff 0%, #fbfbfc 45%, #f7f8fa 100%);
+  background: var(--pure-white);
   font-family: "Segoe UI", "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   line-height: 1.6;
   font-size: 16px;
